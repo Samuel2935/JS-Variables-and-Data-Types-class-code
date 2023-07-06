@@ -24,7 +24,7 @@ To explore the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
  ```bash
-   git clone [repository-url]
+   git clone https://github.com/JS-TS-Coding-Wizards/JS-Variables-and-Data-Types-class-code
   ```
 
 2. Navigate to the cloned directory:
